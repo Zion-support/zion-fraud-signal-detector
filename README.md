@@ -1,19 +1,19 @@
 # Fraud Signal Detector
 
-Claims fraud signal scoring with explainable indicators and SIU referral support.
+## Implementation status — 9 October 2026
+This repository is documentation only (README). No runnable app, AI model, scoring endpoint or deployed fraud detection system is included. The features below are proposed, not implemented or certified. Use synthetic examples and qualified human review; a signal is not a fraud verdict. Do not upload confidential claims.
 
-Part of **Batch 113 — Insurance & InsurTech AI** in the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/) — free & open-source.
+## Proposed workflow
+Claims fraud signal scoring with explainable indicators and SIU referral support. Intended audience: insurers, MGAs, brokers and claims teams. A future implementation must document evidence, false positives, permissions and human approval.
 
-## What it does
-Claims fraud signal scoring with explainable indicators and SIU referral support. Built for insurers, MGAs, brokers and claims organizations. Human review stays in the loop; the app drafts and recommends, your team decides.
+## Translated network guides
+[English](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07.html) · [Português](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07-pt.html) · [Español](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07-es.html) · [Français](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07-fr.html) · [Deutsch](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07-de.html)
 
-## Live & links
-- 🗂️ Batch 113 overview: https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07.html
-- 🌐 App Network hub: https://ziontechgroup.com/zion-app-network/
-- 🧭 Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
-- 🏠 Zion Tech Group: https://ziontechgroup.com
+[Local insurance evidence workbench](https://ziontechgroup.com/apps/insurance-evidence-workbench.html) · [Field Service Evidence Guide](https://ziontechgroup.com/apps/field-service-evidence-guide.html) · [Free Discovery](https://ziontechgroup.com/discovery/) · [App Network](https://ziontechgroup.com/zion-app-network/) · [Zion homepage](https://ziontechgroup.com/)
 
-## Related apps in Batch 113
+Discovery's browser report is separate from email delivery. Provider acceptance is not proof of inbox receipt. Paid implementation is optional.
+
+## Related concepts
 - [Claims Triage AI](https://github.com/Zion-support/zion-claims-triage-ai)
 - [Underwriting Copilot](https://github.com/Zion-support/zion-underwriting-copilot)
 - [Policy Doc Compare](https://github.com/Zion-support/zion-policy-doc-compare)
@@ -21,4 +21,4 @@ Claims fraud signal scoring with explainable indicators and SIU referral support
 - [Quote-Bind Accelerator](https://github.com/Zion-support/zion-quote-bind-accelerator)
 
 ## License
-MIT — © 2026 Zion Tech Group
+MIT — © 2026 Zion Tech Group (original README declaration). No separate LICENSE file was present at this audit; verify complete terms before reuse.
