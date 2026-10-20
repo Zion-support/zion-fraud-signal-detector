@@ -9,7 +9,7 @@ Claims fraud signal scoring with explainable indicators and SIU referral support
 ## Translated network guides
 [English](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07.html) · [Português](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07-pt.html) · [Español](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07-es.html) · [Français](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07-fr.html) · [Deutsch](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07-de.html)
 
-[Local insurance evidence workbench](https://ziontechgroup.com/apps/insurance-evidence-workbench.html) · [Field Service Evidence Guide](https://ziontechgroup.com/apps/field-service-evidence-guide.html) · [Free Discovery](https://ziontechgroup.com/discovery/) · [App Network](https://ziontechgroup.com/zion-app-network/) · [Zion homepage](https://ziontechgroup.com/)
+[Insurance & InsurTech workflow hub](https://ziontechgroup.com/zion-app-network/app-network-batch113-oct07.html) · [Free Discovery](https://ziontechgroup.com/discovery/) · [App Network](https://ziontechgroup.com/zion-app-network/) · [Zion homepage](https://ziontechgroup.com/)
 
 Discovery's browser report is separate from email delivery. Provider acceptance is not proof of inbox receipt. Paid implementation is optional.
 
